@@ -1,6 +1,6 @@
 # Regression model from Stratch
 
-Compute linear,ridge and poisson  from stratch
+Compute linear, ridge and poisson  from stratch in python 
 
 ## Linear regression: 
 $$\hat\beta = (X^TX)^{-1}X^Ty$$
